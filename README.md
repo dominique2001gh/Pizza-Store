@@ -22,3 +22,15 @@ Exploratory and Predictive Data Analysis of Pizza Store
  <P>3. Total Pizza Sold: The sum of the quantities of all pizzas sold.<P>
  <P>4. Total Orders: The total number of orders placed.<P>
  <P>5. Average Pizzas per Order: The average number of pizzas sold per order.<P>
+
+
+<P>CHARTS REQUIREMENT<P>
+ <P>we would like to visualize various aspects of our pizza sales date to gain insights and <P>  <P>understanding key trends. The following requirement are key to creating the charts:<P>
+
+<P> 1.Daily Trend for Total Orders:<P>
+   <P>Create a bar chart that displays the daily trend of total orders over specific time <P>     <P>period.<P>
+   <P>This will help us to identify any patterns of fluctuations in order volumes on a daily <P>     <P>basis
+ <P>2. Monthly Trend for Total Orders:<P>
+   <P> Create a line chart that illustrate the hourly trend of total orders throughout the     <P> day.<P> 
+   <P> This chart will allow us to identify peak hours of periods of high order activity.<P>
+  <P>3. Percentage of Sales by Pizza Category: Create a pie chart the shows the distribution <P>    <P> of sales across different pizza categories. This chart will provide insights into <P>         <P>popularity of various pizza categories and thier contribution to overall sales<P>
