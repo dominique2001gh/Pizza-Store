@@ -8,7 +8,7 @@ Exploratory and Predictive Data Analysis of Pizza Store
 
 <p>Data Used</p>
 <p>•	Sales Date from Pizza store dating from  01-01-2015 - 12-31-2023 with over 48000 records/rows<p></p>
-•	Data Cleaning and Analysis: MSQL, Jupiter Notebook and Excel
+•	Data Cleaning and Analysis: MySQL, Jupiter Notebook and Excel
 
 <P>PROBLEM STATEMENT:<P>
 
